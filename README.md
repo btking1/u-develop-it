@@ -33,9 +33,7 @@ The U Develop It is a web application that allows users to vote for a candidates
 <p>&nbsp;</p>
 
 
-![SCREENSHOOT](https://github.com/btking1/Employee-Tracker/blob/main/Main-Menu.jpg)
-
-[WALKTHROUGH](https://www.youtube.com/watch?v=2X5GulkRHSw)
+![SCREENSHOOT](https://github.com/btking1/u-develop-it/blob/main/img/Screenshot%202022-08-06%20225720.jpg)
 
 <p>&nbsp;</p>
 
